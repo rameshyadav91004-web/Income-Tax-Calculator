@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://income-tax-calculator-five.vercel.app/sitemap.xml
